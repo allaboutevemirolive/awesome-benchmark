@@ -64,3 +64,6 @@ Programmers understand that finding the right information sometimes requires mul
 - Analyze the initial search results and refine the query based on the specific libraries or techniques you're interested in, such as "Python matplotlib bar chart tutorial."
 
 By employing these techniques, skilled programmers are able to maximize the effectiveness of their Google searches and quickly find the information they need to solve programming problems or expand their knowledge.
+
+
+[[site and after, what else should I know]]
